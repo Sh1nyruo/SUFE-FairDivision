@@ -1,0 +1,5 @@
+more_itertools==10.3.0
+networkx==3.3
+numpy==2.0.0
+prtpy==0.8.3
+notebool==7.2.1
